@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: d71a90ba0a4d28ad09be41e849d31b39
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Earth
+    100002: Jupiter
+    100004: Light_Target_1
+    100006: Mars
+    100008: Mercury
+    100010: Moon
+    100012: Neptun
+    100014: //RootNode
+    100016: Pluto
+    100018: Saturn.001
+    100020: Sun
+    100022: Uranus
+    100024: Venus
+    400000: Earth
+    400002: Jupiter
+    400004: Light_Target_1
+    400006: Mars
+    400008: Mercury
+    400010: Moon
+    400012: Neptun
+    400014: //RootNode
+    400016: Pluto
+    400018: Saturn.001
+    400020: Sun
+    400022: Uranus
+    400024: Venus
+    2300000: Earth
+    2300002: Jupiter
+    2300004: Mars
+    2300006: Mercury
+    2300008: Moon
+    2300010: Neptun
+    2300012: Pluto
+    2300014: Saturn.001
+    2300016: Sun
+    2300018: Uranus
+    2300020: Venus
+    3300000: Earth
+    3300002: Jupiter
+    3300004: Mars
+    3300006: Mercury
+    3300008: Moon
+    3300010: Neptun
+    3300012: Pluto
+    3300014: Saturn.001
+    3300016: Sun
+    3300018: Uranus
+    3300020: Venus
+    4300000: Mars
+    4300002: Pluto
+    4300004: Neptun
+    4300006: Moon
+    4300008: Uranus
+    4300010: Venus
+    4300012: Mercury
+    4300014: Saturn.001
+    4300016: Jupiter
+    4300018: Sun
+    4300020: Earth
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brown
+    second: {fileID: 2100000, guid: 4ad8266e09898a61c8fbde19d7547d4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BrownD
+    second: {fileID: 2100000, guid: 6069371e7419260458e639d86efe4aee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BrownD2
+    second: {fileID: 2100000, guid: 00f0f524de58b3d4680842089fe4cc21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FRESH ONION
+    second: {fileID: 2100000, guid: ffff9fc935474d2a19db4f0b72b756b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jupiter
+    second: {fileID: 2100000, guid: f7219b89185388444869f6279f62ebf9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M1
+    second: {fileID: 2100000, guid: eebe7011647e06e0fa528ea5763271ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M2
+    second: {fileID: 2100000, guid: d23d5501d73d76288b1f8a6a5bcf714a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Moon
+    second: {fileID: 2100000, guid: c4a20ab1a9fd5f8788472a63849787b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neptun
+    second: {fileID: 2100000, guid: 5b2c58a813e84c9d0945cc102fd0ce57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PICTON BLUE
+    second: {fileID: 2100000, guid: 93468727b1612b9c88a11c1361b15bda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Purple
+    second: {fileID: 2100000, guid: f7c7c813abdab2a05ac8598d749bb430, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sun
+    second: {fileID: 2100000, guid: d2a377ffc9289cf4094e155c9b0c64e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Uranus
+    second: {fileID: 2100000, guid: bf748fa144b516b35ac4b0d4e5479817, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Venus
+    second: {fileID: 2100000, guid: 530842ce2135e38e082bd3a7f4611a8a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
