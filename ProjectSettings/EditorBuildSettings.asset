@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Tilt Five/Scenes/MainMenu.unity
+    guid: cbcba992c2fb727bdac36a5ac05d0dd6
+  - enabled: 1
+    path: Assets/Tilt Five/Scenes/Demos/Scenes/SwitchingBoards.unity
+    guid: 82a90b52a08e62a8cbe41fe4abfd8f69
+  - enabled: 1
+    path: Assets/Tilt Five/Scenes/Demos/Scenes/NavigatingScene.unity
+    guid: 815d77328be69db31b68bbf53e20d148
+  - enabled: 1
+    path: Assets/Tilt Five/Scenes/Demos/Scenes/ScalingObjects.unity
+    guid: 2028d1b19823d856c9d6c1a69dc0250d
+  - enabled: 1
+    path: Assets/Tilt Five/Scenes/Demos/Scenes/TrackingObject.unity
+    guid: 2e7987070ebd380df8f798ee5ee4d1cb
+  - enabled: 1
+    path: Assets/Tilt Five/Scenes/Demos/Scenes/SceneCursor.unity
+    guid: 85399447d06332844985f01ee83d3c97
+  - enabled: 1
+    path: Assets/Tilt Five/Scenes/Demos/Scenes/GlassesDetection.unity
+    guid: 311d1b661f61ab94bafb0c005b7c16f7
+  - enabled: 1
+    path: Assets/Tilt Five/Scenes/Demos/Scenes/WandVisualization.unity
+    guid: 13404f2addb565b4bb90a1fbba494c17
+  - enabled: 1
+    path: Assets/Tilt Five/Scenes/Demos/Scenes/WandTracking.unity
+    guid: 3478f30f2d0858549833d1fa4e32bb57
+  - enabled: 1
+    path: Assets/Tilt Five/Scenes/Demos/UI/BoardUI.unity
+    guid: 78c7c4bb7d731ae429c18e0953f9b19b
+  - enabled: 1
+    path: Assets/Tilt Five/Scenes/Demos/UI/RotatingUI.unity
+    guid: c9894523a3dfe1029bdb6b1ce8e0f8e8
+  - enabled: 1
+    path: Assets/Tilt Five/Scenes/Demos/Scenes/AutoOrientation.unity
+    guid: 16d1578da3cf71047afa37d89373f03d
+  - enabled: 1
+    path: Assets/Tilt Five/Scenes/Demos/UI/HingeUI.unity
+    guid: 6b2376deaaf811a64b545e3fb85c7a84
+  - enabled: 1
+    path: Assets/Tilt Five/Scenes/Demos/UI/SecondScreenUI.unity
+    guid: a0401c7bcd996e1479ea797cd977c30d
+  - enabled: 1
+    path: Assets/Tilt Five/Scenes/Demos/UI/PointerUI.unity
+    guid: d63da5d8ff1fa2a5d9d9d5f82d60a0f9
+  - enabled: 1
+    path: Assets/Tilt Five/Scenes/Demos/UI/GlassesDetectorUI.unity
+    guid: 5f07d87ede7f1894f951818c07455d92
+  - enabled: 1
+    path: Assets/Tilt Five/Scenes/Demos/UI/CylinderUI.unity
+    guid: 01e23590edb8a1647b075c4aa5ee8494
+  - enabled: 1
+    path: Assets/Tilt Five/Scenes/Demos/UI/WandViewPointer.unity
+    guid: bd3b55883d7a40062bdd7b783cca5eca
+  - enabled: 1
+    path: Assets/Tilt Five/Scenes/Demos/UI/WandTouchPointer.unity
+    guid: 652964996f88f824195fd74c1911cb44
+  - enabled: 1
+    path: Assets/Tilt Five/Scenes/Demos/UI/WandLinePointer.unity
+    guid: 889943fcbbd3c9c45bd98518b83ce049
+  - enabled: 1
+    path: Assets/Tilt Five/Scenes/Demos/Scenes/SpatialAudio.unity
+    guid: ed625c5c93fb07e45b9c9f56ba57309f
+  - enabled: 1
+    path: Assets/Tilt Five/Scenes/Demos/UI/WandArcPointer.unity
+    guid: e1c6c953451720b48ba92ae9333af9d1
+  - enabled: 1
+    path: Assets/Tilt Five/Scenes/Demos/Scenes/SafeZones.unity
+    guid: 29317fd2c825d16469865aa9b577ed0c
+  - enabled: 1
+    path: Assets/Tilt Five/Scenes/Demos/Scenes/WandGestures.unity
+    guid: 93ac2a74b5f6e804ab332c68f0ccbe42
+  - enabled: 1
+    path: Assets/Tilt Five/Scenes/Demos/Scenes/DistanceDisplay.unity
+    guid: 342dc4ca52c887a46b9e149858ec3836
+  - enabled: 1
+    path: Assets/Tilt Five/Scenes/Demos/Scenes/GlassesLayers.unity
+    guid: cec0a31d73838fc418edf2835d756c9e
+  - enabled: 1
+    path: Assets/Tilt Five/Scenes/Demos/Scenes/TangibleTracking.unity
+    guid: b65eb309c442fd14a9268b674004a529
+  m_configObjects: {}
