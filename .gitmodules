@@ -1,3 +1,6 @@
 [submodule "Assets/latkxTiltFive"]
 	path = Assets/latkxTiltFive
 	url = https://github.com/n1ckfg/latkxTiltFive
+[submodule "Assets/latkxWacom"]
+	path = Assets/latkxWacom
+	url = https://github.com/n1ckfg/latkxWacom
