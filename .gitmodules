@@ -10,3 +10,6 @@
 [submodule "Assets/latkxNetwork"]
 	path = Assets/latkxNetwork
 	url = https://github.com/n1ckfg/latkxNetwork
+[submodule "Assets/latkxColorPicker"]
+	path = Assets/latkxColorPicker
+	url = https://github.com/n1ckfg/latkxColorPicker
